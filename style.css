@@ -21,3 +21,9 @@ img{
     border: solid 3px;
     border-radius: 15px;
 }
+
+body{
+    padding: 50px;
+    margin: 30px;
+    border: 5px solid;
+}
